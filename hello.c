@@ -3,5 +3,5 @@
 int main()
          {
            printf("HELLO WORLD");
-           printf("GOOD MORNING");
-           }
+           printf("GOOD MORNING"); 8
+         }
